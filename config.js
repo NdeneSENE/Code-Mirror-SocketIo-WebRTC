@@ -3,8 +3,8 @@ module.exports = {
     mailer : {
         service: 'Gmail',
         auth: {
-            user: 'ndenenafi10@gmail.com',
-            pass: 'Passer'
+            user: 'xxx@gmail.com',
+            pass: '*********8'
         }
     },
     dbConnstring: 'mongodb://127.0.0.1:27017/codeshare',
